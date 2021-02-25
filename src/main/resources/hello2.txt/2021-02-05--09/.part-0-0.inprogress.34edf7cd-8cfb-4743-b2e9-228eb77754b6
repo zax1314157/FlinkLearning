@@ -1,0 +1,5 @@
+SensorReading(hello,123456786,34.1)
+SensorReading(hello,123456785,32.2)
+SensorReading(world,123456787,23.3)
+SensorReading(flink,123456788,45.4)
+SensorReading(fine,123456789,46.5)
